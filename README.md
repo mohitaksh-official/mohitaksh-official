@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohitaksh Srivastava</h1>
 <h3 align="center">A Tech-Enthusiast and Web3/Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Spotify 2.0**
+- 🔭 I’m currently making my expertise on **Fullstack Development**
 
-- 🌱 I’m currently learning **Three.JS**
+- 🌱 I’m also doing Javacript based **Competitive Coding**
 
-- 👯 I’m looking to collaborate on **Web3 Crowdfunding Platform**
+- 💬 I am Highly interested in Three.JS**
 
 - 👨‍💻 All of my projects are available at [https://mohitakshsrivastava.site/](https://mohitakshsrivastava.site/)
 
-- 💬 Ask me about **react, vue and next**
+- 📫 reach me at **mohitaksh.official@gmail.com**
 
-- 📫 How to reach me **mohitaksh.official@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohitaksh/](https://www.linkedin.com/in/mohitaksh/)
+- 📄 LinkedIn [https://www.linkedin.com/in/mohitaksh/](https://www.linkedin.com/in/mohitaksh/)
 
 - ⚡ Fun fact **I am a semi-professional beatboxer !**
 
