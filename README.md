@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohitaksh Srivastava</h1>
-<h3 align="center">A Tech-Enthusiast and Web3/Fullstack developer from India</h3>
+<h3 align="center">A Tech-Enthusiast and Web3 developer from India</h3>
 
-- 🔭 I’m currently making my expertise on **Fullstack Development**
-
+- 🔭 I’m currently making my expertise on **Web3 Development**
 - 🌱 I’m also doing Javacript based **Competitive Coding**
-
-- 💬 I am Highly interested in Three.JS**
-
+- 💬 I am Highly interested in **The future of Web3**
 - 👨‍💻 All of my projects are available at [https://mohitakshsrivastava.site/](https://mohitakshsrivastava.site/)
-
 - 📫 reach me at **mohitaksh.official@gmail.com**
-
 - 📄 LinkedIn [https://www.linkedin.com/in/mohitaksh/](https://www.linkedin.com/in/mohitaksh/)
-
 - ⚡ Fun fact **I am a semi-professional beatboxer !**
 
 <h3 align="left">Connect with me:</h3>
